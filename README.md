@@ -1,57 +1,34 @@
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehrshud&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehrshud&theme=tokyonight&hide_border=true)
+# 🌟 Welcome to My Digital Workshop
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrshud&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+a+Full+Stack+Developer;Building+Tomorrow's+Web+Today;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
+
+[![Website](https://img.shields.io/badge/🌐_Portfolio-omnilertlab.com-blueviolet?style=for-the-badge)](https://www.omnilertlab.com/)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-mehrsud-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mehrsud)
 
 </div>
 
 ---
 
-## 🏆 Achievements
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mehrshud&theme=tokyonight&no-frame=true&row=1&column=6)
+### 👨‍💻 About Me
 
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mehrshud&theme=tokyo-night&hide_border=true)
-
----
-
-## 💡 What I Bring to the Table
-
-- ✨ **Clean Code:** Writing maintainable, scalable, and well-documented code
-- 🎯 **Problem Solving:** Analytical approach to complex technical challenges
-- 🤝 **Collaboration:** Strong team player with excellent communication skills
-- 📚 **Continuous Learning:** Always staying current with emerging technologies
-- ⚡ **Performance:** Optimizing applications for speed and efficiency
-
----
-
-## 📫 Let's Connect
-
-I'm always interested in hearing about new projects and opportunities. Feel free to reach out!
-
-- 🌐 **Website:** [omnilertlab.com](https://www.omnilertlab.com/)
-- 📧 **Email:** your.email@example.com
-- 💼 **LinkedIn:** [Your Profile](YOUR_LINKEDIN)
-- 📷 **Instagram:** [@mehrsud](https://instagram.com/mehrsud)
-
----
-
-<div align="center">
-
-### ⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-![Profile Views](https://visitcount.itsvg.in/api?id=mehrshud&icon=2&color=6)
-
-</div>
+```javascript
+const developer = {
+    name: "Your Name",
+    role: "Full Stack Developer",
+    location: "📍 Karlsruhe, Germany",
+    currentFocus: "Building scalable web apps",
+    languages: ["JavaScript", "TypeScript", "Python", "PHP"],
+    askMeAbout: ["Web Dev", "UI/UX", "Cloud", "Docker"],
+    technologies: {
+        frontend: ["React", "Next.js", "Vue", "Three.js"],
+        backend: ["Node.js", "Laravel", "Express"],
+        databases: ["MySQL", "MongoDB", "PostgreSQL"],
+        tools: ["Docker", "Git", "Linux", "Nginx"]
+    },
+    architecture: ["SPA", "SSR", "Microservices", "PWA"],
+    funFact: "I debug code faster than I fix my sleep schedule"
+};
