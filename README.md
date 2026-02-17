@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_omnilertlab.com-6e40c9?style=for-the-badge&logoColor=white)](https://www.omnilertlab.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-mehrsud-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mehrsud)
-[![Profile Views](https://komarev.com/ghpvcounter/?username=mehrshud&color=a177f7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/mehrshud)
+![Profile Views](https://komarev.com/ghpvc/?username=mehrshud&style=for-the-badge&color=a177f7&label=PROFILE+VIEWS)
 
 </div>
 
@@ -92,7 +92,7 @@ const mehrshud = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mehrshud&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=mehrshud&theme=radical&no-frame=true&no-bg=true&margin-w=8)
 
 </div>
 
