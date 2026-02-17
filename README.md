@@ -75,14 +75,7 @@ const mehrshud = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehrshud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0d1117&title_color=a177f7&icon_color=a177f7&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrshud&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a177f7&text_color=c9d1d9&border_radius=10"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehrshud&theme=tokyonight&hide_border=true&background=0d1117&ring=a177f7&fire=a177f7&currStreakLabel=a177f7&sideLabels=c9d1d9&dates=6e7681" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehrshud&theme=tokyonight&hide_border=true&background=0d1117&ring=a177f7&fire=a177f7&currStreakLabel=a177f7&sideLabels=c9d1d9&dates=6e7681" />
 
 </div>
 
@@ -92,7 +85,7 @@ const mehrshud = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mehrshud&theme=radical&no-frame=true&no-bg=true&margin-w=8)
+<img src="https://github-profile-trophy.vercel.app/?username=mehrshud&theme=radical&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Profile Trophies" />
 
 </div>
 
